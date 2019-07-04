@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>เราคือใคร on โกล์เด็นเซเว่นสตาร์สทัวร์</title>
-    <link>http://g7stars.com/th/about/</link>
+    <link>https://g7stars.com/th/about/</link>
     <description>Recent content in เราคือใคร on โกล์เด็นเซเว่นสตาร์สทัวร์</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>th-th</language>
     <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
     
-	<atom:link href="http://g7stars.com/th/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://g7stars.com/th/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
