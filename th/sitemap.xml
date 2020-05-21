@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://g7stars.com/th/tags/aboard/</loc>
     <lastmod>2019-06-24T17:33:56+07:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +35,6 @@
   <url>
     <loc>https://g7stars.com/th/tags/</loc>
     <lastmod>2019-06-24T17:33:56+07:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,7 +50,6 @@
   <url>
     <loc>https://g7stars.com/th/tags/travel/</loc>
     <lastmod>2019-06-24T17:33:56+07:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +65,6 @@
   <url>
     <loc>https://g7stars.com/th/</loc>
     <lastmod>2019-06-24T17:33:56+07:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -233,7 +229,6 @@
   
   <url>
     <loc>https://g7stars.com/th/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
